@@ -6,7 +6,7 @@ from aiogram import types, Dispatcher, Bot
 from magic import bot
 from aiogram import filters
 
-
+#weeeeee
 
 
 
